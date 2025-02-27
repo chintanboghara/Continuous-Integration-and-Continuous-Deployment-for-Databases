@@ -104,3 +104,5 @@ The application will:
 - `node-pg-migrate` - Database migration tool
 - `dotenv` - Environment variable management
 
+
+

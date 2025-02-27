@@ -103,3 +103,4 @@ The application will:
 - `pg` - PostgreSQL client for Node.js
 - `node-pg-migrate` - Database migration tool
 - `dotenv` - Environment variable management
+
